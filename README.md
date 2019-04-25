@@ -4,6 +4,7 @@ Simple assitant using Python
 ### Current functionalities:
 * Can search YouTube for a spoken keyword.
 * Can announce the stock price for a particular company.
+* test
 
 ### Requirements:
 * Refer to the requirements.txt file for all the dependencies.
