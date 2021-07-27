@@ -1,11 +1,11 @@
 # assistant
 Simple assitant using Python
 
-###Current functionalities:
+### Current functionalities:
 * Can search YouTube for a spoken keyword.
 * Can announce the stock price for a particular company.
 
-###Requirements:
+### Requirements:
 * Refer to the requirements.txt file for all the dependencies.
 * Execute `pip install -r requirements.txt`
 
